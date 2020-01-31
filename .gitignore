@@ -1,0 +1,5 @@
+obj/
+/certs/
+/libs/
+/alexa/
+*.md

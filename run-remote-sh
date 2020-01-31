@@ -1,0 +1,1 @@
+ssh -l pi smart-meter "/home/pi/Projects/smartbase-ada/obj/main"
